@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ASM0\source\repos\practice\practice\main.cpp(92,39): warning C4018: <: несоответствие типов со знаком и без знака
+  practice.vcxproj -> C:\Users\ASM0\source\repos\practice\Debug\practice.exe
